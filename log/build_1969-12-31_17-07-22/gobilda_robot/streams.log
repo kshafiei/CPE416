@@ -1,0 +1,105 @@
+[0.046s] Invoking command in '/home/calpoly/gobilda/gobilda_ws/build/gobilda_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/calpoly/gobilda/gobilda_ws/install/project_one:/home/calpoly/gobilda/gobilda_ws/install/project1:/home/calpoly/gobilda/gobilda_ws/install/final_project:/opt/ros/humble /usr/bin/cmake /home/calpoly/gobilda/gobilda_ws/src/gobilda_robot -DCMAKE_INSTALL_PREFIX=/home/calpoly/gobilda/gobilda_ws/install/gobilda_robot
+[0.648s] -- The C compiler identification is GNU 11.4.0
+[0.648s] -- The CXX compiler identification is GNU 11.4.0
+[0.648s] -- Detecting C compiler ABI info
+[0.648s] -- Detecting C compiler ABI info - done
+[0.648s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.649s] -- Detecting C compile features
+[0.649s] -- Detecting C compile features - done
+[0.649s] -- Detecting CXX compiler ABI info
+[0.649s] -- Detecting CXX compiler ABI info - done
+[0.649s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.649s] -- Detecting CXX compile features
+[0.650s] -- Detecting CXX compile features - done
+[0.650s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.964s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.149s] -- Found hardware_interface: 2.47.0 (/opt/ros/humble/share/hardware_interface/cmake)
+[1.223s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.231s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.246s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.269s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.298s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.673s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.678s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.725s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[1.837s] -- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.847s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[1.878s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.885s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[1.903s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[1.926s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.957s] -- Looking for pthread.h
+[2.112s] -- Looking for pthread.h - found
+[2.112s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.281s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.285s] -- Found Threads: TRUE  
+[2.562s] -- Configuring done
+[2.614s] -- Generating done
+[2.626s] -- Build files have been written to: /home/calpoly/gobilda/gobilda_ws/build/gobilda_robot
+[2.662s] Invoked command in '/home/calpoly/gobilda/gobilda_ws/build/gobilda_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/calpoly/gobilda/gobilda_ws/install/project_one:/home/calpoly/gobilda/gobilda_ws/install/project1:/home/calpoly/gobilda/gobilda_ws/install/final_project:/opt/ros/humble /usr/bin/cmake /home/calpoly/gobilda/gobilda_ws/src/gobilda_robot -DCMAKE_INSTALL_PREFIX=/home/calpoly/gobilda/gobilda_ws/install/gobilda_robot
+[2.663s] Invoking command in '/home/calpoly/gobilda/gobilda_ws/build/gobilda_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/calpoly/gobilda/gobilda_ws/install/project_one:/home/calpoly/gobilda/gobilda_ws/install/project1:/home/calpoly/gobilda/gobilda_ws/install/final_project:/opt/ros/humble /usr/bin/cmake --build /home/calpoly/gobilda/gobilda_ws/build/gobilda_robot -- -j6 -l6
+[2.713s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.011s] -- Found hardware_interface: 2.47.0 (/opt/ros/humble/share/hardware_interface/cmake)
+[3.086s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[3.090s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[3.101s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[3.119s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.142s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.456s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[3.456s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[3.488s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[3.505s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[3.538s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[3.559s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[3.580s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.855s] -- Configuring done
+[3.916s] -- Generating done
+[3.928s] -- Build files have been written to: /home/calpoly/gobilda/gobilda_ws/build/gobilda_robot
+[4.086s] gmake[2]: Warning: File '/home/calpoly/gobilda/gobilda_ws/src/gobilda_robot/hardware/src/gobilda_system.cpp' has modification time 1738110873 s in the future
+[4.129s] [ 33%] [32mBuilding CXX object CMakeFiles/gobilda_robot.dir/hardware/src/gobilda_system.cpp.o[0m
+[4.146s] [ 66%] [32mBuilding CXX object CMakeFiles/gobilda_robot.dir/hardware/src/motor.cpp.o[0m
+[20.464s] [100%] [32m[1mLinking CXX shared library libgobilda_robot.so[0m
+[21.016s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[21.061s] [100%] Built target gobilda_robot
+[21.121s] Invoked command in '/home/calpoly/gobilda/gobilda_ws/build/gobilda_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/calpoly/gobilda/gobilda_ws/install/project_one:/home/calpoly/gobilda/gobilda_ws/install/project1:/home/calpoly/gobilda/gobilda_ws/install/final_project:/opt/ros/humble /usr/bin/cmake --build /home/calpoly/gobilda/gobilda_ws/build/gobilda_robot -- -j6 -l6
+[21.180s] Invoking command in '/home/calpoly/gobilda/gobilda_ws/build/gobilda_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/calpoly/gobilda/gobilda_ws/install/project_one:/home/calpoly/gobilda/gobilda_ws/install/project1:/home/calpoly/gobilda/gobilda_ws/install/final_project:/opt/ros/humble /usr/bin/cmake --install /home/calpoly/gobilda/gobilda_ws/build/gobilda_robot
+[21.206s] -- Install configuration: ""
+[21.206s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/gobilda_robot.xml
+[21.207s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/include/gobilda_robot
+[21.207s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/include/gobilda_robot/gobilda_robot
+[21.220s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/include/gobilda_robot/gobilda_robot/gobilda_system.hpp
+[21.220s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/include/gobilda_robot/gobilda_robot/motor.hpp
+[21.221s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/ros2_control
+[21.221s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/ros2_control/gobilda.ros2_control.xacro
+[21.221s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/urdf
+[21.221s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/urdf/gobilda.urdf.xacro
+[21.222s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/urdf/gobilda_description.urdf.xacro
+[21.222s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/launch
+[21.222s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/launch/gobilda.launch.py
+[21.222s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/config
+[21.222s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/config/gobilda_controllers.yaml
+[21.222s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/lib/libgobilda_robot.so
+[21.224s] -- Set runtime path of "/home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/lib/libgobilda_robot.so" to ""
+[21.224s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/environment/library_path.sh
+[21.225s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/environment/library_path.dsv
+[21.225s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/ament_index/resource_index/package_run_dependencies/gobilda_robot
+[21.225s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/ament_index/resource_index/parent_prefix_path/gobilda_robot
+[21.226s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/environment/ament_prefix_path.sh
+[21.226s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/environment/ament_prefix_path.dsv
+[21.226s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/environment/path.sh
+[21.226s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/environment/path.dsv
+[21.227s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/local_setup.bash
+[21.227s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/local_setup.sh
+[21.227s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/local_setup.zsh
+[21.228s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/local_setup.dsv
+[21.228s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/package.dsv
+[21.228s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/ament_index/resource_index/packages/gobilda_robot
+[21.229s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/gobilda_robot
+[21.229s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/cmake/export_gobilda_robotExport.cmake
+[21.229s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/cmake/export_gobilda_robotExport-noconfig.cmake
+[21.230s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/cmake/ament_cmake_export_targets-extras.cmake
+[21.230s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/cmake/ament_cmake_export_dependencies-extras.cmake
+[21.230s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/cmake/gobilda_robotConfig.cmake
+[21.231s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/cmake/gobilda_robotConfig-version.cmake
+[21.231s] -- Installing: /home/calpoly/gobilda/gobilda_ws/install/gobilda_robot/share/gobilda_robot/package.xml
+[21.243s] Invoked command in '/home/calpoly/gobilda/gobilda_ws/build/gobilda_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/calpoly/gobilda/gobilda_ws/install/project_one:/home/calpoly/gobilda/gobilda_ws/install/project1:/home/calpoly/gobilda/gobilda_ws/install/final_project:/opt/ros/humble /usr/bin/cmake --install /home/calpoly/gobilda/gobilda_ws/build/gobilda_robot

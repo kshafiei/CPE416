@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/project_one/project_one.egg-info
+writing ../../build/project_one/project_one.egg-info/PKG-INFO
+writing dependency_links to ../../build/project_one/project_one.egg-info/dependency_links.txt
+writing entry points to ../../build/project_one/project_one.egg-info/entry_points.txt
+writing requirements to ../../build/project_one/project_one.egg-info/requires.txt
+writing top-level names to ../../build/project_one/project_one.egg-info/top_level.txt
+writing manifest file '../../build/project_one/project_one.egg-info/SOURCES.txt'
+reading manifest file '../../build/project_one/project_one.egg-info/SOURCES.txt'
+writing manifest file '../../build/project_one/project_one.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/calpoly/gobilda/gobilda_ws/build/project_one/build
+creating /home/calpoly/gobilda/gobilda_ws/build/project_one/build/lib
+creating /home/calpoly/gobilda/gobilda_ws/build/project_one/build/lib/project_one
+copying project_one/__init__.py -> /home/calpoly/gobilda/gobilda_ws/build/project_one/build/lib/project_one
+copying project_one/bump_and_go.py -> /home/calpoly/gobilda/gobilda_ws/build/project_one/build/lib/project_one
+running install
+running install_lib
+creating /home/calpoly/gobilda/gobilda_ws/install/project_one/lib/python3.10/site-packages/project_one
+copying /home/calpoly/gobilda/gobilda_ws/build/project_one/build/lib/project_one/__init__.py -> /home/calpoly/gobilda/gobilda_ws/install/project_one/lib/python3.10/site-packages/project_one
+copying /home/calpoly/gobilda/gobilda_ws/build/project_one/build/lib/project_one/bump_and_go.py -> /home/calpoly/gobilda/gobilda_ws/install/project_one/lib/python3.10/site-packages/project_one
+byte-compiling /home/calpoly/gobilda/gobilda_ws/install/project_one/lib/python3.10/site-packages/project_one/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/calpoly/gobilda/gobilda_ws/install/project_one/lib/python3.10/site-packages/project_one/bump_and_go.py to bump_and_go.cpython-310.pyc
+running install_data
+creating /home/calpoly/gobilda/gobilda_ws/install/project_one/share/ament_index
+creating /home/calpoly/gobilda/gobilda_ws/install/project_one/share/ament_index/resource_index
+creating /home/calpoly/gobilda/gobilda_ws/install/project_one/share/ament_index/resource_index/packages
+copying resource/project_one -> /home/calpoly/gobilda/gobilda_ws/install/project_one/share/ament_index/resource_index/packages
+copying package.xml -> /home/calpoly/gobilda/gobilda_ws/install/project_one/share/project_one
+running install_egg_info
+Copying ../../build/project_one/project_one.egg-info to /home/calpoly/gobilda/gobilda_ws/install/project_one/lib/python3.10/site-packages/project_one-0.0.0-py3.10.egg-info
+running install_scripts
+Installing bump_and_go script to /home/calpoly/gobilda/gobilda_ws/install/project_one/lib/project_one
+writing list of installed files to '/home/calpoly/gobilda/gobilda_ws/build/project_one/install.log'

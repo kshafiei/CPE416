@@ -1,0 +1,3 @@
+[console_scripts]
+roomba = project1.roomba:main
+

@@ -1,0 +1,24 @@
+[1.387s] Invoking command in '/home/calpoly/gobilda/gobilda_ws/src/project_one': PYTHONPATH=/home/calpoly/gobilda/gobilda_ws/build/project_one/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/calpoly/gobilda/gobilda_ws/install/project_one/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/project_one build --build-base /home/calpoly/gobilda/gobilda_ws/build/project_one/build install --record /home/calpoly/gobilda/gobilda_ws/build/project_one/install.log --single-version-externally-managed install_data
+[1.912s] running egg_info
+[1.913s] writing ../../build/project_one/project_one.egg-info/PKG-INFO
+[1.914s] writing dependency_links to ../../build/project_one/project_one.egg-info/dependency_links.txt
+[1.914s] writing entry points to ../../build/project_one/project_one.egg-info/entry_points.txt
+[1.914s] writing requirements to ../../build/project_one/project_one.egg-info/requires.txt
+[1.915s] writing top-level names to ../../build/project_one/project_one.egg-info/top_level.txt
+[1.918s] reading manifest file '../../build/project_one/project_one.egg-info/SOURCES.txt'
+[1.920s] writing manifest file '../../build/project_one/project_one.egg-info/SOURCES.txt'
+[1.920s] running build
+[1.920s] running build_py
+[1.920s] copying project_one/bump_and_go.py -> /home/calpoly/gobilda/gobilda_ws/build/project_one/build/lib/project_one
+[1.921s] running install
+[1.921s] running install_lib
+[1.923s] copying /home/calpoly/gobilda/gobilda_ws/build/project_one/build/lib/project_one/bump_and_go.py -> /home/calpoly/gobilda/gobilda_ws/install/project_one/lib/python3.10/site-packages/project_one
+[1.924s] byte-compiling /home/calpoly/gobilda/gobilda_ws/install/project_one/lib/python3.10/site-packages/project_one/bump_and_go.py to bump_and_go.cpython-310.pyc
+[1.926s] running install_data
+[1.927s] running install_egg_info
+[1.930s] removing '/home/calpoly/gobilda/gobilda_ws/install/project_one/lib/python3.10/site-packages/project_one-0.0.0-py3.10.egg-info' (and everything under it)
+[1.931s] Copying ../../build/project_one/project_one.egg-info to /home/calpoly/gobilda/gobilda_ws/install/project_one/lib/python3.10/site-packages/project_one-0.0.0-py3.10.egg-info
+[1.933s] running install_scripts
+[1.977s] Installing bump_and_go script to /home/calpoly/gobilda/gobilda_ws/install/project_one/lib/project_one
+[1.977s] writing list of installed files to '/home/calpoly/gobilda/gobilda_ws/build/project_one/install.log'
+[2.046s] Invoked command in '/home/calpoly/gobilda/gobilda_ws/src/project_one' returned '0': PYTHONPATH=/home/calpoly/gobilda/gobilda_ws/build/project_one/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/calpoly/gobilda/gobilda_ws/install/project_one/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/project_one build --build-base /home/calpoly/gobilda/gobilda_ws/build/project_one/build install --record /home/calpoly/gobilda/gobilda_ws/build/project_one/install.log --single-version-externally-managed install_data

@@ -1,0 +1,3 @@
+[console_scripts]
+bump_and_go = project_one.bump_and_go:main
+
