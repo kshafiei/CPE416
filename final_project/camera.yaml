@@ -1,0 +1,12 @@
+/**:
+  ros__parameters:
+    camera:
+      i_enable_imu: true
+      i_enable_ir: true
+      i_nn_type: spatial
+      i_pipeline_type: RGBD
+    imu:
+      i_enable_rotation: true
+      i_message_type: IMU
+    nn:
+      i_nn_config_path: depthai_ros_driver/mobilenet
